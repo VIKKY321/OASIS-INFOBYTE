@@ -1,0 +1,58 @@
+body{
+    background-color:rgb(255,100,50);
+}
+ .ha h1{
+    font-style: italic;
+    top:40%;
+    left:40%;
+    display: flex;
+    position:absolute;
+}
+.heading_result h1{
+    font-style: italic;
+    top:55%;
+    left:40%;
+    display: flex;
+    position:absolute;
+}
+.text{
+    width:100px;
+    height:30px;
+    top:50%;
+    left:40%;
+    display: flex;
+    position:absolute;
+    gap: 50px;
+}
+.option{
+    top:50%;
+    left:60%;
+    display: flex;
+    position:absolute;
+}
+.result{
+    width:100px;
+    height:30px;
+    top:65%;
+    left:40%;
+    position:absolute;
+}
+.button{
+    top:81%;
+    left:45%;
+    display:flex;
+    position: absolute;
+    gap:50px;
+    
+}
+#button1{
+    width: 100px;
+    height: 50px;
+    font-size: medium;
+   color: white;
+    background-color: rgb(226, 213, 30);
+    border: 2px solid rgb(17, 1, 1);
+}
+
+
+
